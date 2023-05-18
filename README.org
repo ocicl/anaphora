@@ -1,0 +1,9 @@
+* anaphora
+
+The anaphoric macro collection from Hell.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/spwhitton/anaphora.git |
+| commit  | bcf0f74                                       |
+| systems | anaphora                                      |
+|---------+-----------------------------------------------|
